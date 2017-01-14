@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/logo.png",
+        "source": "/home/dscanon/Developments/erp-tns/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/background.png",
+        "source": "/home/dscanon/Developments/erp-tns/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/icon.png",
+        "source": "/home/dscanon/Developments/erp-tns/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    }
+]

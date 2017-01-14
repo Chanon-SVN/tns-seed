@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_72a1d5152432de56f05ea3bae43f9c3ad23942a5.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-24.2.1_37097339101ebb7ee01bfaebd0a76cb906f97b72.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_9a6421b2e23f6771d668d9a804a7fed550769e10.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-24.2.1_fd484b46da64bd479bc0c9eca2ef1136ae5c7f4e.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/erptns/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/erptns-runtime-unspecified_0c3e66fcd71141f1f66a492805b4b2e6806ae839.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-24.2.1_f09ac3138d9ffaedcafc43d7c13c1659d65372de.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-24.2.1_17089428a77cafd62afe487f7773c5d3074fd8dd.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-24.2.1_7a8d8f35d7b3cd37206e219085678f588861b0f4.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9eec987a0056adc79d607b32e7e1c41997a434a7">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_594fdda98c8f365cdca659d6f073a4cd7cae6efd.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/erptns/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_c3898029e7f88e71f5f25996a8dccdedb4a56e07.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_7b7b71e933e6b02ea9b9a7bf0cacd2fb6231dde2.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-24.2.1_154b4a3ffe11a7813b3973a8423afcb67208a3e6.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-24.2.1_0facff83776e68c95ba86402836854a1ed5d119b.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-24.2.1_f9b0c89caab7bcd92913544d594e7374c8494bde.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-24.2.1_8166ebc2502a43c8273ee88d5c5885a942f765d0.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_175905cbcc447a862b9e4921cf53be1a1150aee3.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-24.2.1_3529c68392d25f3920728ec13cc0f5ec52517abf.jar" />
+    </item>
+    <item
+        jar="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/dscanon/Developments/erp-tns/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_eb3a8b582e322457a9b31644554e4c03d8e8e46d.jar" />
+    </item>
+
+</items>
