@@ -1,5 +1,4 @@
-﻿@import '~/css/core.light.css'; 
-
+﻿/*@import '~/css/core.light.css';
 button, label, stack-layout {
     horizontal-align: center;    
 }
@@ -18,4 +17,12 @@ button {
     color: #284848;
     text-align: center;
     margin: 0 20;
-} 
+}*/ 
+Page {
+  /*background-image:url("res://bg2");*/
+  font-size: 15;
+}
+TextField {
+  padding: 10;
+  font-size: 13;
+}

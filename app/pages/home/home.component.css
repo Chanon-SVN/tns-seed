@@ -1,0 +1,26 @@
+.background{
+  background-image:url("res://bg")*;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+.form{
+  background-color:rgba(14,22,20,0.4);
+  margin-top:30%;
+  margin-left:20%;
+  margin-right:20%;
+}
+.field{
+  margin-top:2%;
+  margin-bottom:2%;
+  margin-left:5%;
+  margin-right:5%;
+  color:white;
+}
+.f-white{
+  color:white;
+  placeholder-color:white;
+}
+.bntn-home{
+width:50%;
+}

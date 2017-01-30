@@ -1,0 +1,17 @@
+<StackLayout #background class="background">
+  <StackLayout>
+      <Button text="HOme" class="btn-home"></Button>
+      <Button text="HOme" class="btn-home"></Button>
+  </StackLayout>
+  <Stacklayout #background class="form" >
+    <StackLayout class="field">
+      <TextField hint="Email Address" keyboardType="email"
+      autocorrect="false" autocapitalizationType="none" class="f-white"></TextField>
+      <TextField hint="Password" secure="true" class="f-white"></TextField>
+    </StackLayout>
+
+    <StackLayout class="field">
+      <Button text="HOme" [nsRouterLink]="['/home']" class="btn-login"></Button>
+    </StackLayout>
+  </Stacklayout>
+</StackLayout>

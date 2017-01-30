@@ -1,8 +1,13 @@
-<StackLayout> 
-  <TextField hint="Email Address" keyboardType="email"
-  autocorrect="false" autocapitalizationType="none"></TextField>
-  <TextField hint="Password" secure="true"></TextField>
+  <StackLayout #background class="background">
+    <Stacklayout #background class="form" >
+      <StackLayout class="field">
+        <TextField hint="Email Address" keyboardType="email"
+        autocorrect="false" autocapitalizationType="none" class="f-white"></TextField>
+        <TextField hint="Password" secure="true" class="f-white"></TextField>
+      </StackLayout>
 
-  <Button text="Sign in"></Button>
-  <Button text="Sign up for Groceries"></Button>
-</StackLayout>
+      <StackLayout class="field">
+        <Button text="Sign in" [nsRouterLink]="['/home']" class="btn-login"></Button>
+      </StackLayout>
+    </Stacklayout>
+  </StackLayout>
