@@ -19,10 +19,9 @@ button {
     margin: 0 20;
 }*/ 
 Page {
-  /*background-image:url("res://bg2");*/
-  font-size: 15;
+  font-size: 20;
 }
 TextField {
-  padding: 10;
-  font-size: 13;
+  padding: 20;
+  font-size: 23;
 }
